@@ -1,0 +1,46 @@
+ul {
+    list-style-type: none;
+    margin-top: 0;
+    padding: 2;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 12px 17px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;}
+
+.me {
+  text-align: center;
+  color: blue;
+
+}
+.span1
+{
+  color: red;
+}
+.jumbotron
+{
+  margin-top: 20;
+padding: 20;
+background-color: #99ffff;
+
+
+}
+body
+{
+  margin-top: 0;
+  margin-left: 30;
+  margin-right: 30;
+}
