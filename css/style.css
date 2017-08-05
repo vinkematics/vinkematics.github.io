@@ -44,9 +44,9 @@ body
   margin-bottom: 5%;
   margin-left: 10%;
   margin-right: 10%;
-  border-style: solid;
-  border-color: green;
+  border-color: #ffb84d;
   background-color: #d6f5d6;
+  border-style: double;
 
 }
 .jumbotron1 {
