@@ -32,7 +32,7 @@ this is the final release of the web application.
 
 Kevin Mwenda Gitaari.
 
-License
+<b>License</b>
 
 This project is licensed under the MIT License.
 
